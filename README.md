@@ -7,8 +7,8 @@
     Hello and welcome to my GitHub profile !
     <br>
     <br>
-    🥷 Let me introduce myself first. I'm Azecko and I'm a 17 years old kid living in Switzerland.<br>
-    📖 I'm currently a first year apprentice at <a href="https://www.epfl.ch/en/" target="_blank">EPFL.</a><br>  
+    🥷 Let me introduce myself first. I'm Azecko and I'm a 18 years old kid living in Switzerland.<br>
+    📖 I'm currently a third year apprentice at <a href="https://www.epfl.ch/en/" target="_blank">EPFL.</a><br>  
     💻 I love coding and playing video games. I started coding when I was 12 years old.<br>
     📫 You can contact me on Twitter <a href="https://twitter.com/Azecko1" target="_blank">@Azecko1</a>
   </p>
