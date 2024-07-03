@@ -17,6 +17,10 @@
     <a href="https://twitter.com/Azecko1"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/Azecko1?label=follow%20me%20on%20twitter&style=social"></a>
   </p>
 
+  <h2 align="center">My badges</h2>
+  <!-- my-badges start -->
+  <!-- my-badges end -->
+
   <h2 align="center">Stats 📈</h2>
   <div align="center">
     <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Azecko&theme=react&border=61dafb"/>
