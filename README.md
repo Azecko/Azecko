@@ -1,13 +1,17 @@
-  <h1 align="center">
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Azecko&fontSize=32&animation=fadeIn&fontAlignY=30&descSize=12&descAlignY=46&descAlign=54.5&desc=Coding%20is%20cool,%20somehow.">
+  </div>
+  
+  <!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=27&center=true&vCenter=true&lines=Welcome+!;I'm+Azecko;And+here+is+my+GitHub+!">
-  </h1>
+  </h1> -->
 
   <p align="center">
     <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/30987143?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Azecko profile pic"/>       <br><br>
     Hello and welcome to my GitHub profile !
     <br>
     <br>
-    🥷 Let me introduce myself first. I'm Azecko and I'm a 18 years old kid living in Switzerland.<br>
+    🥷 Let me introduce myself first. I'm Azecko and I'm a 19 years old kid living in Switzerland.<br>
     📖 I'm currently a third year apprentice at <a href="https://www.epfl.ch/en/" target="_blank">EPFL.</a><br>  
     💻 I love coding and playing video games. I started coding when I was 12 years old.<br>
     📫 You can contact me on Twitter <a href="https://twitter.com/Azecko1" target="_blank">@Azecko1</a>
