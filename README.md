@@ -35,9 +35,6 @@
 <a href="my-badges/the-ultimate-question.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/the-ultimate-question/the-ultimate-question.png?raw=true" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;the&quot;." title="My favorite word is &quot;the&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
-<a href="my-badges/abc-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abc-commit.png?raw=true" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
-<a href="my-badges/abcd-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abcd-commit.png?raw=true" alt="One of my commit sha starts with &quot;abcd&quot;." title="One of my commit sha starts with &quot;abcd&quot;." width="64"></a>
-<a href="my-badges/dead-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true" alt="I pushed a commit with &quot;dead&quot; 76 times." title="I pushed a commit with &quot;dead&quot; 76 times." width="64"></a>
 <!-- my-badges end -->
 
   <h2 align="center">Stats 📈</h2>
