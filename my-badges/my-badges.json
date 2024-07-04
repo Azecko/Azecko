@@ -58,8 +58,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"new\".",
-    "body": "My favorite commit message words are:\n\n1. new (used 111018 times)\n2. entry (used 111004 times)\n3. feat: (used 111000 times)\n4. spam (used 111000 times)\n5. the (used 619 times)",
+    "desc": "My favorite word is \"the\".",
+    "body": "My favorite commit message words are:\n\n1. the (used 619 times)\n2. [feat] (used 533 times)\n3. to (used 291 times)\n4. from (used 210 times)\n5. and (used 190 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
