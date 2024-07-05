@@ -4,7 +4,7 @@
 
 My favorite commit message words are:
 
-1. the (used 619 times)
+1. the (used 621 times)
 2. [feat] (used 533 times)
 3. to (used 291 times)
 4. from (used 210 times)
