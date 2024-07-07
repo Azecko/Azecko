@@ -4,90 +4,90 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/a4126d557ab930216e8597b4a2b2da380811758e\"><strong>a</strong>4126d557ab930216e8597b4a2b2da380811758e</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/abac55b746ccf3b94356e3fb90f8d23a40d5aa08\"><strong>ab</strong>ac55b746ccf3b94356e3fb90f8d23a40d5aa08</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/calculateur-moyennes/commit/5e474f6640d7b5c47bfcd16475b542bccb5fca10\">5e474f6</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/825a2e071eb7a815c21221f2870cfcaad9dcb84b\">825a2e0</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/91fe80806e09593d1026262ca2288bb557625485\">91fe808</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/47aba4495cee0e89ec2144ccfc281faf1254a35d\">47aba44</a>\n- <a href=\"https://github.com/Azecko/rapport-de-stage/commit/20052364074b46a56ac607851ca1da13ccfa253b\">2005236</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/20052364074b46a56ac607851ca1da13ccfa253b\">2005236</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/botonews/commit/ee1b02aa7c474f0e5b4dcb33746a947d9f0444c8\">ee1b02a</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "public-keys-1",
     "tier": 1,
     "desc": "I have one public key",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-1.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   },
   {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/Azecko/epfl-email-signatures/issues/42\">#42</a>\n- <a href=\"https://github.com/Azecko/botonews/issues/42\">#42</a>\n- <a href=\"https://github.com/Azecko/rapport-de-stage/issues/42\">#42</a>\n- <a href=\"https://github.com/epfl-si/ATARI/issues/42\">#42</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/the-ultimate-question/the-ultimate-question.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
     "body": "My favorite commit message words are:\n\n1. the (used 621 times)\n2. [feat] (used 533 times)\n3. to (used 291 times)\n4. from (used 210 times)\n5. and (used 190 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Azecko/rapport-de-stage/issues/23\">#23</a>: Fix dates\n- <a href=\"https://github.com/dwesh163/InputGame/issues/20\">#20</a>: [doc] CONTRIBUTING.md",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/polite-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" 2 times.",
     "body": "- <a href=\"https://github.com/Azecko/jdt-generator/commit/9a3fd9d936b08feddc6ca34b0cafe1b3fc7a4495\">9a3fd9d936b08feddc6ca34b0<strong>cafe</strong>1b3fc7a4495</a>\n- <a href=\"https://github.com/Azecko/module293-site/commit/8ce399a7f1a0ea560e3299c83f98cafe8b5a74b4\">8ce399a7f1a0ea560e3299c83f98<strong>cafe</strong>8b5a74b4</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/cafe-commit/cafe-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/botonews/commit/5cb00c64ae7cd118cb420cd4c415cef2b3c9243f\">5cb00c6</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/b210e84b4b1991d715bff7c1ac3b8ce291768889\">b210e84</a>\n- <a href=\"https://github.com/Azecko/Quizzoto/commit/629702b1c68583f8ae8c3ae3df202ebc20f0d98d\">629702b</a>\n- <a href=\"https://github.com/ponsfrilus/botonews/commit/5cb00c64ae7cd118cb420cd4c415cef2b3c9243f\">5cb00c6</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/epic-commit/epic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/65\">#65</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/my-badges-contributor/my-badges-contributor.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   }
 ]
