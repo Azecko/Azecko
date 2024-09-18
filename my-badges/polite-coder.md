@@ -4,7 +4,7 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/Azecko/rapport-de-stage/issues/23">#23</a>: Fix dates
+- <a href="https://github.com/Azecko/rapport-de-stage-old/issues/23">#23</a>: Fix dates
 - <a href="https://github.com/dwesh163/InputGame/issues/20">#20</a>: [doc] CONTRIBUTING.md
 
 

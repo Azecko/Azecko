@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/Azecko/epfl-email-signatures/issues/42">#42</a>
 - <a href="https://github.com/Azecko/botonews/issues/42">#42</a>
-- <a href="https://github.com/Azecko/rapport-de-stage/issues/42">#42</a>
+- <a href="https://github.com/Azecko/rapport-de-stage-old/issues/42">#42</a>
 - <a href="https://github.com/epfl-si/ATARI/issues/42">#42</a>
 
 

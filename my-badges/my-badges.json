@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/calculateur-moyennes/commit/5e474f6640d7b5c47bfcd16475b542bccb5fca10\">5e474f6</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/825a2e071eb7a815c21221f2870cfcaad9dcb84b\">825a2e0</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/91fe80806e09593d1026262ca2288bb557625485\">91fe808</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/47aba4495cee0e89ec2144ccfc281faf1254a35d\">47aba44</a>\n- <a href=\"https://github.com/Azecko/rapport-de-stage/commit/20052364074b46a56ac607851ca1da13ccfa253b\">2005236</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/20052364074b46a56ac607851ca1da13ccfa253b\">2005236</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/calculateur-moyennes/commit/5e474f6640d7b5c47bfcd16475b542bccb5fca10\">5e474f6</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/825a2e071eb7a815c21221f2870cfcaad9dcb84b\">825a2e0</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/91fe80806e09593d1026262ca2288bb557625485\">91fe808</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/47aba4495cee0e89ec2144ccfc281faf1254a35d\">47aba44</a>\n- <a href=\"https://github.com/Azecko/rapport-de-stage-old/commit/20052364074b46a56ac607851ca1da13ccfa253b\">2005236</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage/commit/20052364074b46a56ac607851ca1da13ccfa253b\">2005236</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/Azecko/epfl-email-signatures/issues/42\">#42</a>\n- <a href=\"https://github.com/Azecko/botonews/issues/42\">#42</a>\n- <a href=\"https://github.com/Azecko/rapport-de-stage/issues/42\">#42</a>\n- <a href=\"https://github.com/epfl-si/ATARI/issues/42\">#42</a>",
+    "body": "- <a href=\"https://github.com/Azecko/epfl-email-signatures/issues/42\">#42</a>\n- <a href=\"https://github.com/Azecko/botonews/issues/42\">#42</a>\n- <a href=\"https://github.com/Azecko/rapport-de-stage-old/issues/42\">#42</a>\n- <a href=\"https://github.com/epfl-si/ATARI/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Azecko/rapport-de-stage/issues/23\">#23</a>: Fix dates\n- <a href=\"https://github.com/dwesh163/InputGame/issues/20\">#20</a>: [doc] CONTRIBUTING.md",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Azecko/rapport-de-stage-old/issues/23\">#23</a>: Fix dates\n- <a href=\"https://github.com/dwesh163/InputGame/issues/20\">#20</a>: [doc] CONTRIBUTING.md",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
