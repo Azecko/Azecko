@@ -89,5 +89,12 @@
     "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/65\">#65</a>",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/epfl-si/wp-ops/pull/573\">#573</a>: [chore] Removed kopf-operator",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
