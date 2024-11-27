@@ -96,5 +96,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/epfl-si/wp-ops/pull/573\">#573</a>: [chore] Removed kopf-operator",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/dcf929b554da00c5f11b0468d7ef688e077cf165\">dcf929b</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/8d2d6d1cd053a173cacdc015225d751d84686d15\">8d2d6d1</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/cb208c191db634bd35dcbfb7a3bad201a9bb107c\">cb208c1</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/8f996d3aa0ecf6e1f4749ee82275e91d08622151\">8f996d3</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/80b53cc51b19493731c0819ed980573a32130385\">80b53cc</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/a45f4bb6a942047d8284754c6546ed73571d2570\">a45f4bb</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
