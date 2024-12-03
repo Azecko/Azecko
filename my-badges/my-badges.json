@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/ponsfrilus/rapport-de-stage-2023/commit/a4126d557ab930216e8597b4a2b2da380811758e\"><strong>a</strong>4126d557ab930216e8597b4a2b2da380811758e</a>",
+    "body": "- <a href=\"https://github.com/Azecko/LinedBot/commit/a6eadd5615ba42fe45bfc9db1097f80724fa08e4\"><strong>a</strong>6eadd5615ba42fe45bfc9db1097f80724fa08e4</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/ponsfrilus/rapport-de-stage-2023/commit/abac55b746ccf3b94356e3fb90f8d23a40d5aa08\"><strong>ab</strong>ac55b746ccf3b94356e3fb90f8d23a40d5aa08</a>",
+    "body": "- <a href=\"https://github.com/Azecko/Kata-APOD/commit/ab6be63edefc07b147c4dcc18acb89552e1f2233\"><strong>ab</strong>6be63edefc07b147c4dcc18acb89552e1f2233</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/botonews/commit/5cb00c64ae7cd118cb420cd4c415cef2b3c9243f\">5cb00c6</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/b210e84b4b1991d715bff7c1ac3b8ce291768889\">b210e84</a>\n- <a href=\"https://github.com/Azecko/Quizzoto/commit/629702b1c68583f8ae8c3ae3df202ebc20f0d98d\">629702b</a>\n- <a href=\"https://github.com/ponsfrilus/botonews/commit/5cb00c64ae7cd118cb420cd4c415cef2b3c9243f\">5cb00c6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/b210e84b4b1991d715bff7c1ac3b8ce291768889\">b210e84</a>\n- <a href=\"https://github.com/Azecko/Quizzoto/commit/629702b1c68583f8ae8c3ae3df202ebc20f0d98d\">629702b</a>\n- <a href=\"https://github.com/Azecko/botonews/commit/5cb00c64ae7cd118cb420cd4c415cef2b3c9243f\">5cb00c6</a>\n- <a href=\"https://github.com/ponsfrilus/botonews/commit/5cb00c64ae7cd118cb420cd4c415cef2b3c9243f\">5cb00c6</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/dcf929b554da00c5f11b0468d7ef688e077cf165\">dcf929b</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/8d2d6d1cd053a173cacdc015225d751d84686d15\">8d2d6d1</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/cb208c191db634bd35dcbfb7a3bad201a9bb107c\">cb208c1</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/8f996d3aa0ecf6e1f4749ee82275e91d08622151\">8f996d3</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/80b53cc51b19493731c0819ed980573a32130385\">80b53cc</a>\n- <a href=\"https://github.com/Azecko/epfl-email-signatures/commit/a45f4bb6a942047d8284754c6546ed73571d2570\">a45f4bb</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/Azecko/birthminder\">Azecko/birthminder</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
