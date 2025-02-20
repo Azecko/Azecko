@@ -110,5 +110,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/Azecko/birthminder\">Azecko/birthminder</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Azecko/rapport-de-stage-old/commit/38c20cdf407652dd0906cb56461b6552a75020b7\">38c20cd</a>\n- <a href=\"https://github.com/ponsfrilus/rapport-de-stage-2023/commit/38c20cdf407652dd0906cb56461b6552a75020b7\">38c20cd</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
